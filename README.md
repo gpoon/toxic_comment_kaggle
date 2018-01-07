@@ -1,4 +1,4 @@
 # toxic_comment_kaggle
 
-pip install spacy
+pip install -r requirements.txt
 python -m spacy download en
