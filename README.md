@@ -1,7 +1,8 @@
 # toxic_comment_kaggle
 
-pip install -r requirements.txt
-python -m spacy download en
+## Setup
+1. pip install -r requirements.txt
+1. python -m spacy download en
 
 Trying to install tensorflow with GPU
 
