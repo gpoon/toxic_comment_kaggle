@@ -74,7 +74,7 @@ singledispatch==3.4.0.3
 six==1.11.0
 spacy==2.0.5
 subprocess32==3.2.7
-tensorflow-gpu==1.4.1
+tensorflow-gpu==1.15.2
 tensorflow-tensorboard==0.4.0rc3
 termcolor==1.1.0
 terminado==0.8.1
